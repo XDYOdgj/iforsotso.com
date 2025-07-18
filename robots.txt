@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iforsotso.com/sitemap.xml
